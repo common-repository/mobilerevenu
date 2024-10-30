@@ -1,0 +1,101 @@
+# Copyright (C) 2012 MobileRevenu
+# This file is distributed under the same license as the MobileRevenu package.
+msgid ""
+msgstr ""
+"Project-Id-Version: MobileRevenu\n"
+"Report-Msgid-Bugs-To: http://www.mobilerevenu.com\n"
+"POT-Creation-Date: 2012-03-16 13:14+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"PO-Revision-Date: \n"
+"Last-Translator: MobileRevenu <servicecomm@mobilerevenu.com>\n"
+"Language-Team: Mobile Revenu <servicecomm@mobilerevenu.com>\n"
+
+#: _mobilerevenu_plugin.class.php:6
+msgid "webmaster ID"
+msgstr ""
+
+#: _mobilerevenu_plugin.class.php:7
+#: _mobilerevenu_plugin.class.php:8
+msgid "Website classification"
+msgstr ""
+
+#: _mobilerevenu_plugin.class.php:9
+msgid "White label ID"
+msgstr ""
+
+#: _mobilerevenu_plugin.class.php:10
+msgid "Tracking"
+msgstr ""
+
+#: _mobilerevenu_plugin.class.php:11
+msgid "Your key"
+msgstr ""
+
+#: _mobilerevenu_plugin.class.php:12
+msgid "Mobile Redirect"
+msgstr ""
+
+#: _mobilerevenu_plugin.class.php:13
+msgid "Old generation devices"
+msgstr ""
+
+#: _mobilerevenu_plugin.class.php:174
+msgid "Wide target"
+msgstr ""
+
+#: _mobilerevenu_plugin.class.php:229
+msgid "Configuration"
+msgstr ""
+
+#: _mobilerevenu_plugin.class.php:267
+msgid "Lost ID  ?"
+msgstr ""
+
+#: _mobilerevenu_plugin.class.php:268
+msgid "get your own account"
+msgstr ""
+
+#: _mobilerevenu_plugin.class.php:285
+msgid "If you have a white label"
+msgstr ""
+
+#: _mobilerevenu_plugin.class.php:290
+msgid "Where can I find my personal Key ?"
+msgstr ""
+
+#: _mobilerevenu_plugin.class.php:294
+#: _mobilerevenu_plugin.class.php:312
+msgid "Confirm your informations"
+msgstr ""
+
+#: _mobilerevenu_plugin.class.php:303
+msgid "<b>Don't redirect</b> my Mobile traffic"
+msgstr ""
+
+#: _mobilerevenu_plugin.class.php:306
+msgid "Redirect <u>all</u> my Mobile traffic <b>on MobileRevenu</b>"
+msgstr ""
+
+#: _mobilerevenu_plugin.class.php:309
+msgid "Redirect <u>old generation devices</u> <b>on MobileRevenu</b> (recommended)"
+msgstr ""
+
+#: _mobilerevenu_plugin.class.php:310
+msgid "Load <u>an other theme</u> if mobile detection: "
+msgstr ""
+
+#: _mobilerevenu_plugin.class.php:310
+msgid "No old mobile devices are able to visit your site or its mobile version. We advise you to monetize that traffic with MobileRevenu.<br>MobileRevenu offers an optimized website for those devices. You will earn a commission on each sale made off."
+msgstr ""
+
+#: tinymce.php:78
+msgid "Link Configuration"
+msgstr ""
+
+#: tinymce.php:88
+msgid "Insert your link"
+msgstr ""
+
